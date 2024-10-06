@@ -4,7 +4,7 @@ sidebar:
     education: True
 
     # Profile information
-    name: Laetitia Roux
+    name: Laetitia ROUX
     tagline: Responsable ADV et support commercial
 
     # Sidebar links
@@ -21,16 +21,17 @@ sidebar:
         - idiom: Anglais
           level: Compétence professionnelle complète
         - idiom: Allemand
-          level: Compétence professionnelle opérationnelle
+          level: Compétence professionnelle limitée
         - idiom: Espagnol
-          level: Compétence professionnelle opérationnelle
+          level: Intermédiaire
 
     interests:
       title: Intérêts
       info:
         - item: Danses afro-latines (Bachata, Kizomba, Salsa)
-        - item: Fitness
-        - item: VDI pour la marque proWIN
+        - item: Sport (musculation)
+        - item: Voyages
+    
 
 career-profile:
     title: Profil Professionnel
